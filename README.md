@@ -1,3 +1,27 @@
+## This project is a homework project for CS5340 at the University of Colorado Colorado Springs.
+### This is the work of the following graduate students:
+
+#### Lakshmi Arikatla, Carlos Guerra, Tarum Kidambi, Sai Teja Lakkapally
+
+## Purpose
+
+The purpose of this project is to practice software maintenance practices and implement them in an open source project.
+
+The following will be implemented with this project:
+- Branch management
+- Adding features
+  - add even more customization to the map output
+  - add larger resolution downloads
+  - other (not yet determined)
+- Resolving bugs (if any)
+- Automate the deployment of the application to a hosting platform (i.e. streamlit or heroku)
+- Code scanning using available tools within GitHub (free)
+- Other (if time permits)
+  - Containerization
+  - unit testing
+
+# This is a fork of the work done in the following project:
+---
 # prettymapp 🖼️
 
 **Prettymapp is a webapp and Python package to create beautiful maps from OpenStreetMap data**
