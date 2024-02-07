@@ -1,7 +1,7 @@
 ## This project is a homework project for CS5340 at the University of Colorado Colorado Springs.
 ### This is the work of the following graduate students:
 
-#### Lakshmi Arikatla, Carlos Guerra, Tarum Kidambi, Sai Teja Lakkapally
+#### Lakshmi Arikatla, Carlos Guerra, Tarun Kidambi, Sai Teja Lakkapally
 
 ## Purpose
 
@@ -15,7 +15,10 @@ The following will be implemented with this project:
   - other (not yet determined)
 - Resolving bugs (if any)
 - Automate the deployment of the application to a hosting platform (i.e. streamlit or heroku)
-- Code scanning using available tools within GitHub (free)
+- Code quality automation in GitHub (free)
+  - fussing
+  - running tests
+  - security scanning
 - Other (if time permits)
   - Containerization
   - unit testing
